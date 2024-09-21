@@ -1,0 +1,6 @@
+path{
+	transition: fill .1s linear
+}
+path:hover{
+	fill: #565656
+}
